@@ -22,9 +22,9 @@
 
 <p align="center">
 
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=RuiSoares333&border_color=B20600&border_radius=10vw&title_color=FF5F00&bg_color=16275c&text_color=EEEEEE&icon_color=192d69"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=RuiSoares333&border_color=B20600&border_radius=5vw&title_color=FF5F00&bg_color=16275c&text_color=EEEEEE&icon_color=FFFFFF&show_icons=true" alt="RuiSoares333"/>
 
-  <img width="40%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiSoares333&layout=compact&include_all_commits=true&count_private=true&show_icons=true&border_color=B20600&border_radius=10vw&title_color=FF5F00&bg_color=16275c&text_color=EEEEEE&icon_color=B20600" alt="RuiSoares333">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiSoares333&layout=compact&include_all_commits=true&count_private=true&show_icons=true&border_color=B20600&border_radius=5vw&title_color=FF5F00&bg_color=16275c&text_color=EEEEEE&icon_color=B20600" alt="RuiSoares333" />
   
 </p>
 
