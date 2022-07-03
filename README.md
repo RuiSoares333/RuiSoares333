@@ -27,7 +27,7 @@
   
 </p>
 
-##What i'm listening to:##
+## What i'm listening to: ##
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21zvsw5mkkhjp6qolmwgwgeky&cover_image=true&theme=novatorem&bar_color=3592c4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21zvsw5mkkhjp6qolmwgwgeky&redirect=true)
 
