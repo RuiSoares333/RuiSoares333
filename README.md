@@ -4,20 +4,21 @@
 - 😄 Pronouns: he/him<br>
 <br>
 
-### :wrench: Languages and tools
+## :wrench: Languages and tools
 
 <p>
-  <!--<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=254094">-->
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=254094">
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=254094">
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=254094">
   
   <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=254094">
+  <img src="https://img.shields.io/badge/Editor-Jet%20Brains-informational?style=flat&logo=netbeans&logoColor=white&color=254094">
 
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=254094">
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=254094">
 </p>
 
-#### 📈 Github Stats
+## 📈 Github Stats
 
 <p align="center">
 
@@ -26,6 +27,11 @@
   <img width="40%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiSoares333&layout=compact&include_all_commits=true&count_private=true&show_icons=true&border_color=B20600&border_radius=10vw&title_color=FF5F00&bg_color=16275c&text_color=EEEEEE&icon_color=B20600" alt="RuiSoares333">
   
 </p>
+
+## 📖 Looking Forward to: ##
+- Learn Unreal Engine
+- Learn Tailwind
+- Have some Tea 🍵
 
 ## What i'm listening to: ##
 
