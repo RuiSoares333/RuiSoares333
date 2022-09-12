@@ -1,5 +1,5 @@
 ### Hi there, I am Rui Soares👋 ###
-- 🔭 I'm currently studying [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial") (year 2/5) <br>
+- 🔭 I'm currently studying [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial") (year 3/5) <br>
 - 🌱 I’m currently attending the Informatics and Computing Engineering course<br>
 - 😄 Pronouns: he/him<br>
 <br>
