@@ -64,3 +64,12 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21zvsw5mkkhjp6qolmwgwgeky&cover_image=true&theme=novatorem&bar_color=3592c4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21zvsw5mkkhjp6qolmwgwgeky&redirect=true)
 
 (I stole this from [@Happy-Myers](https://github.com/Happy-Myers), but he stole it too so...)
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- MartinHeinz GitHub Profile README:: https://github.com/MartinHeinz/ -->
